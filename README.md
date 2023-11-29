@@ -1,8 +1,10 @@
 <h3>SQL-Challenge</h3>
 <h5>Code location:</h5>
 
-> The project can be found by selecting the "" file above.
-> 
+> Schemas for SQL-Challenge can be found by selecting the "EmployeeSQL" folder above and selecting the "schema.sql file.
+>
+> Queries for SQL-Challenge can be found by selecting the "EmployeeSQL" folder above and selecting the "query.sql" file.
+>
 
 <h5>Code source:</h5>
 
