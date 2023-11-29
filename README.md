@@ -1,11 +1,11 @@
 <h3>SQL-Challenge</h3>
 <h5>Code location:</h5>
 
-> Schemas for SQL-Challenge can be found by selecting the "EmployeeSQL" folder above and selecting the "schema.sql file.
+> Schemas for SQL-Challenge can be found by selecting the "EmployeeSQL" folder above and selecting the "schema.sql" file within.
 >
-> Queries for SQL-Challenge can be found by selecting the "EmployeeSQL" folder above and selecting the "query.sql" file.
+> Queries for SQL-Challenge can be found by selecting the "EmployeeSQL" folder above and selecting the "query.sql" file within.
 >
-> The entity relationship diagram (ERD) can be found above by selecting the "ERD.png" file, or below:
+> The entity relationship diagram (ERD) can be found above by selecting the "ERD.png" file, or here:
 > 
 > ![ERD:](https://github.com/elasmo4/SQL-Challenge/blob/main/ERD.png "ERD")
 
