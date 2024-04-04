@@ -12,7 +12,7 @@
 
 <h5>Modules Utilized:</h5>
 
-> 
+> SQL
 > 
 
 <h5>Code source and Usage:</h5>
@@ -26,7 +26,7 @@
 
 <h5>Features and Tests:</h5>
 
-> The main purpose of SQL-Challenge
+> SQL-Challenge demonstrates how to extract information using queries from an SQL schema.
 > 
 
 <h5>Contact:</h5>
